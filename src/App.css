@@ -1,0 +1,12 @@
+
+
+.App {
+  /* background-color: #e1c7dc; */
+  background-image: url("/src/img1.jpeg");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+  overflow: hidden;
+  color: white;
+  font-family:monospace;
+}
