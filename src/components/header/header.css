@@ -1,15 +1,15 @@
 .header {
-    margin: 0 2.5rem;
-    padding: .5rem 0;
+    margin: 12px 2.5rem;
+    padding: .5rem ;
     align-items: center;
     display: flex;
-    justify-content:space-between;
+    justify-content:space-around;
+   
 }
 
 .headerLeft, .headerRight {
     display: flex;
     align-items: center;
-
 }
 
 a > span{

@@ -1,11 +1,12 @@
 .posterImage{
     height: 600px;
+    width: 100%;
 }
 
 .posterImage > img {
     margin: auto;
     display: block;
-    width: 100%;
+    width: 70%;
 }
 
 .posterImage__overlay {
@@ -15,7 +16,7 @@
     height: 70%;
     display: flex;
     flex-direction: column;
-    width: 100%;
+   
     justify-content: flex-end;
     align-items: flex-start;
     background-image: linear-gradient(rgba(172, 48, 48, 0), rgb(11, 33, 46));
